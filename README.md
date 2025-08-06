@@ -1,16 +1,43 @@
-<<<<<<< HEAD
-# online-airline-reservation
-A mobile app built using React Native and Firebase for booking, updating, and cancelling airline tickets
-=======
-# Sample Snack app
+# ✈️ Online Airline Reservation Application
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This is a mobile application built using **React Native** and **Firebase** for booking, updating, and cancelling airline tickets.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 📱 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- 🔐 Secure Authentication (Login / Signup / Forget Password)
+- 🎟️ Book Tickets
+- 📄 View Bookings
+- ✏️ Update Tickets
+- ❌ Cancel Tickets
+- 📂 Drawer & Tab Navigation
+- 📍 Static Pages (Home, Explore, About Us, Where We Fly)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🛠️ Tech Stack
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
->>>>>>> 7c1f926 (Initial commit: Online Airline Reservation App)
+- **React Native** (Snack Expo)
+- **Firebase** (Authentication + Realtime Database)
+- **React Navigation**
+
+## 📂 Project Structure
+/components
+/assets
+App.js
+
+**Watch the full demo of the app in action:**
+
+
+
+https://github.com/user-attachments/assets/c74b57c2-a6fe-4151-9fea-c8de07e1405f
+
+
+**Reset Demo Video**
+
+https://github.com/user-attachments/assets/ca745c20-72eb-4947-9ce4-b1bedae05743
+
+
+## 👨‍💻 Author
+
+**Fizza Rehman**  
+6th Semester Project – Mobile Computing Course  
+Department of Software Engineering  
+Gift University, Gujranwala
